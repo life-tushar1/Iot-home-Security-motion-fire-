@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tusharsharma/AndroidStudioProjects/PushNotification/lib/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_2b9a2c1d6a33318c31fcff843b9e66b78c6858d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_470bcea18f217ce6314a9c386854ca7ba053cb47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tusharsharma/AndroidStudioProjects/PushNotification/lib/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_ea4d3f258ba1ffa13e3ea1a54c47e71557c52e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tusharsharma/AndroidStudioProjects/PushNotification/lib/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_7009abd28df2dd2feb78396d79a85ca9c1e6c140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae1cd151d4381802e93cf402e5cc40c003ae8b30">
+        <dex dex="/Users/tusharsharma/AndroidStudioProjects/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6458831dc23aa20600e68492a04aa503c446357/classes.dex" />
+    </item>
+
+</items>
